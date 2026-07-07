@@ -97,15 +97,23 @@ PakWheels-Car-Analysis/
 
 ---
 
-## Visualization Preview
+## 🖼️ Visualization Preview
 
-`<img src="plot_images/top_10_brands.png" width="900"/>`{=html}
+### Top 10 Car Brands
 
-`<img src="plot_images/price_distribution.png" width="900"/>`{=html}
+<img src="plot_images/top_10_brands.png" alt="Top 10 Car Brands" width="900"/>
 
-`<img src="plot_images/average_price_per_brand.png" width="900"/>`{=html}
+### Price Distribution
 
-`<img src="plot_images/cars_by_year.png" width="900"/>`{=html}
+<img src="plot_images/price_distribution.png" alt="Price Distribution" width="900"/>
+
+### Average Price per Brand
+
+<img src="plot_images/average_price_per_brand.png" alt="Average Price per Brand" width="900"/>
+
+### Cars by Year
+
+<img src="plot_images/cars_by_year.png" alt="Cars by Year" width="900"/>
 
 ---
 
@@ -214,15 +222,6 @@ Visualizations include:
 | PyODBC | SQL Server driver |
 | SQL Server | Database storage |
 | Streamlit | Interactive dashboard |
-
----
-
-## ⚠️ Important Notes
-
-- Website HTML structure can change, so scraper selectors may need future updates.
-- Do not upload `venv/`, `.env`, credentials, cache folders, or local database files.
-- If no records are scraped, inspect PakWheels page structure and update CSS selectors.
-- SQL Server loading is optional and requires local database setup.
 
 ---
 
