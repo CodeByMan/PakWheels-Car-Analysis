@@ -18,6 +18,8 @@
 
 ---
 
+<img src="pakwheels.png" alt="PakWheels Banner" width="900"/>
+
 ## 📌 Project Overview
 
 This project collects used car listing data from **PakWheels**, cleans and transforms the dataset, generates visual insights, optionally loads the cleaned data into SQL Server, and provides an interactive Streamlit dashboard.
