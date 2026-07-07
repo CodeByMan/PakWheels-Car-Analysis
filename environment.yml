@@ -1,0 +1,16 @@
+name: pakwheels_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - requests
+  - beautifulsoup4
+  - sqlalchemy
+  - streamlit
+  - pip
+  - pip:
+      - pyodbc
